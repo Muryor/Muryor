@@ -1,0 +1,83 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": {
+    "hidden": false
+  },
+  "profile": {
+    "name": "刘天民",
+    "email": "ryutm@foxmail.com",
+    "mobile": "18295691901",
+    "github": "https://github.com/Muryor",
+    "zhihu": "",
+    "workExpYear": "",
+    "workPlace": "",
+    "positionTitle": ""
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2019.09.01",
+        "2023.06.30"
+      ],
+      "school": "山东师范大学",
+      "major": "数学与应用数学",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "英语 CET4",
+      "award_time": "2020"
+    },
+    {
+      "award_info": "数学建模省级二等奖",
+      "award_time": "2021.10"
+    },
+    {
+      "award_info": "前端练习生 可视化讲师",
+      "award_time": "2020.10"
+    },
+    {
+      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
+      "award_time": "2021.07"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "庆云云天教育集团",
+      "department_name": "高中数学",
+      "work_time": [
+        "2022.03",
+        null
+      ],
+      "work_desc": "担任数学老师，维修学校服务器"
+    }
+  ],
+  "skillList": [],
+  "projectList": [
+    {
+      "project_name": "",
+      "project_role": "",
+      "project_time": "",
+      "project_desc": "",
+      "project_content": ""
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n    目前是开源产品 AntV G2/G2Plot 栈主要负责人。\n    "
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  },
+  "template": "template1"
+}
