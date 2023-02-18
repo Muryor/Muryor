@@ -1,75 +1,96 @@
 {
-  "titleNameMap": {
-    "educationList": "教育背景",
-    "workExpList": "工作经历",
-    "projectList": "项目经历",
-    "skillList": "个人技能",
-    "awardList": "更多信息",
-    "workList": "个人作品",
-    "aboutme": "自我介绍"
-  },
-  "avatar": {
-    "hidden": false
-  },
-  "profile": {
-    "name": "刘天民",
-    "email": "ryutm@foxmail.com",
-    "mobile": "18295691901",
-    "github": "https://github.com/Muryor",
-    "zhihu": "",
-    "workExpYear": "",
-    "workPlace": "",
-    "positionTitle": ""
-  },
-  "educationList": [
-    {
-      "edu_time": [
-        "2019.09.01",
-        "至今"
-      ],
-      "school": "山东师范大学",
-      "major": "数学与应用数学",
-      "academic_degree": "本科"
-    }
-  ],
-  "awardList": [
-    {
-      "award_info": "英语 CET4",
-      "award_time": "2020"
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "在校期间",
+        "skillList": "个人技能",
+        "awardList": "在校期间获奖情况",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
     },
-    {
-      "award_info": "数学建模省级二等奖",
-      "award_time": "2021.10"
-    }
-  ],
-  "workExpList": [
-    {
-      "company_name": "庆云云天教育集团",
-      "department_name": "高中数学",
-      "work_time": [
-        "2022.03",
-        null
-      ],
-      "work_desc": "担任数学老师，维修学校服务器"
-    }
-  ],
-  "skillList": [],
-  "projectList": [
-    {
-      "project_name": "",
-      "project_role": "",
-      "project_time": "",
-      "project_desc": "",
-      "project_content": ""
-    }
-  ],
-  "workList": [],
-  "aboutme": {
-    "aboutme_desc": "🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n       "
-  },
-  "theme": {
-    "color": "#2f5785",
-    "tagColor": "#8bc34a"
-  },
-  "template": "template2"
+    "avatar": {
+        "hidden": false
+    },
+    "profile": {
+        "name": "刘天民",
+        "email": "ryutm@foxmail.com",
+        "mobile": "18295691901",
+        "github": "https://github.com/Muryor",
+        "zhihu": "",
+        "workExpYear": "",
+        "workPlace": "",
+        "positionTitle": ""
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2019.09.01",
+                "至今"
+            ],
+            "school": "山东师范大学",
+            "major": "数学与应用数学",
+            "academic_degree": "本科"
+        }
+    ],
+    "awardList": [
+        {
+            "award_time": "2019.08",
+            "award_info": "山东师范大学2019级军训优秀生",
+            "dataIndex": 0
+        },
+        {
+            "award_info": "英语 CET4",
+            "award_time": "2020"
+        },
+        {
+            "award_time": "2020.12",
+            "award_info": "优秀学生三等奖学金",
+            "dataIndex": 2
+        },
+        {
+            "award_info": "数学建模省级二等奖",
+            "award_time": "2021.10"
+        },
+        {
+            "award_time": "2021.12",
+            "award_info": "优秀学生单项奖学金",
+            "dataIndex": 4
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "庆云云天教育集团",
+            "department_name": "高中数学",
+            "work_time": [
+                "2022.03",
+                null
+            ],
+            "work_desc": "担任数学老师，维修学校服务器"
+        },
+        {
+            "work_time": "2022.06",
+            "company_name": "大学生创新创业",
+            "work_desc": "参加大学生创新创业项目训练计划，创立幼儿启蒙教育服务平台"
+        }
+    ],
+    "skillList": [],
+    "projectList": [
+        {
+            "project_name": "山东师范大学逸翎球社",
+            "project_role": "副社长",
+            "project_time": "2020.09-2021.09",
+            "project_desc": "",
+            "project_content": "组织社团日常活动",
+            "dataIndex": 0
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n       "
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    },
+    "template": "template2"
 }
